@@ -1,0 +1,26 @@
+
+	body{
+		background-color: #F8EEE7;
+	}
+
+	table.auto{
+		table-layout: auto;
+		margin-top: 30px;
+	}
+
+	table.fixed{
+		table-layout: fixed;
+	}
+
+	h1, h2{
+		padding: 0;
+		margin: 0;
+		text-align: center;
+		color: #1E392A;
+		font-family: Righteous; 
+	}
+
+	caption{
+		font-size: 25px;
+		color: #3CC47C;
+	}

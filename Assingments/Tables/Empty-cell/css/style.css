@@ -1,0 +1,32 @@
+
+	body{
+		background-color: #D5D5D5;
+	}
+
+	table.hide{
+		border-collapse: separate;
+		width: 300px;
+		empty-cells: hide;
+		text-align: center;
+		margin-top: 30px;
+	}
+
+	table.show{
+		border-collapse: separate;
+		width: 300px;
+		empty-cells: show;
+		text-align: center;
+	}
+
+	caption{
+		font-size: 25px;
+		color: #A239CA;
+	}
+
+	h1, h2{
+		padding: 0;
+		margin: 0;
+		font-family: Acme;
+		text-align: center;
+		color: #813772;
+	}

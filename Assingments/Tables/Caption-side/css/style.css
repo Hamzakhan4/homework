@@ -1,0 +1,54 @@
+	body{
+		background-color: #DFDCE3;	
+	}
+
+	h1, h2{
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		color: #4717F6;
+		font-family: Niconne;
+	}
+
+	table.one {
+		border-collapse:separate;
+		margin-top: 30px;
+		text-align: center;
+		width: 500px;
+	}
+
+	table.two {
+		border-collapse:separate;
+		text-align: center;
+		width: 500px;
+	}
+
+	td.a {
+	border-style:solid; 
+	border-width:3px; 
+	border-color:#000000; 
+	padding: 10px;
+	}
+
+	td.b {
+		border-style:solid; 
+		border-width:3px; 
+		border-color:#333333;
+		padding:10px;
+	}
+	caption{
+		font-size: 25px;
+		color: #E37222;
+	}
+	caption.left{
+		text-align: left;
+	}
+	caption.right{
+		text-align: right;
+	}
+	caption.top{
+		caption-side: top;
+	}
+	caption.bottom{
+		caption-side: bottom;
+	}

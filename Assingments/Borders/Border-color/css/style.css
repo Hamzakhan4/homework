@@ -1,0 +1,33 @@
+
+	body{
+		background-color: #D9D9D9;
+	}
+
+	td.different{
+		border: 3px solid;
+		border-top-color: green;
+		border-right-color: blue;
+		border-left-color: yellow;
+		border-bottom-color: red;
+	}
+
+	td.same{
+		border: 3px solid;
+		border-color: #94618E;
+	}
+
+	caption{
+		font-size: 25px;
+		color: #49274A;
+	}
+
+	h1, h2{
+		padding: 0;
+		margin: 0;
+		text-align: center;
+		font-family: Gugi;
+		color: #1D2731;
+	}
+	table.top{
+		margin-top: 35px;
+	}
