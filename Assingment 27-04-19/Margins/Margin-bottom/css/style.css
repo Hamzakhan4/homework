@@ -1,0 +1,17 @@
+
+	body{
+		background-color: #DFDCE3;	
+	}
+
+	h1{
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		color: #4717F6;
+		font-family: Niconne;
+	}
+
+	p{
+		border: 2px solid;
+		margin-bottom: 40px;
+	}

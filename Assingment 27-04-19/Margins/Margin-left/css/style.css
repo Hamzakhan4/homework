@@ -1,0 +1,20 @@
+
+	body{
+		background-color: #DFDCE3;	
+	}
+
+	h1{
+		margin: 0;
+		padding: 0;
+		text-align: center;
+		color: #FC4A1A;
+		font-family: Lobster;
+	}
+
+	p.left{
+		margin-left: 70px;
+	}
+
+	p{
+		border: 2px solid;
+	}
